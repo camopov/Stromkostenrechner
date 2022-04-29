@@ -9,4 +9,4 @@ igs = z * sk * sv
 print("Die Täglichen Stromkosten des Geräts betragen " + str(igs) + " Euro")
 print("Die Wöchenlichen Stromkosten des Geräts betragen " + str(igs * 7) + " Euro")
 print("Die Monatlichen Stromkosten des Geräts betragen " + str(igs * 30) + " Euro")
-print("Die Jährlichen Stromkosten des Geräts betragen " + str(igs * 356) + " Euro")
+print("Die Jährlichen Stromkosten des Geräts betragen " + str(igs * 365) + " Euro")
