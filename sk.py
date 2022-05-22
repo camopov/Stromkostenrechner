@@ -1,6 +1,6 @@
 stromkosten = input("Bitte geben sie ihre Stromkosten pro KWh, in Euro, an\n")
 stromverbrauch = input("Bitte geben sie den Durchschnittlichen Stromverbrauch des Geräts, in Watt, an\n")
-zeit = input("Bitte geben sie in Stunden an, wielange das Gerät pro Tag läuft\n")
+zeit = input("Bitte geben sie in Stunden an, wie lange das Gerät pro Tag läuft\n")
 sk = float(stromkosten)
 sv = float(stromverbrauch)
 z = float(zeit)
